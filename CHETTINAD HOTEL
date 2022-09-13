@@ -287,5 +287,3 @@ function checkAppropriateValues(prinitingText,usersinputLength,variableType){
     </script>
   </body>
 </html>
-
-
